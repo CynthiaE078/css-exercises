@@ -1,1 +1,21 @@
 /* Add CSS Styling */
+
+.oddElements {
+    background-color: rgb(218, 133, 161);
+    font-family: 'Verdana', 'Dejavu Sans', 'sans-serif';
+}
+
+#one {
+    color: rgb(25, 18, 233);
+    font-size: 36px;
+}
+
+.big {
+    font-size: 24px;
+}
+
+#two {
+    background-color: rgb(133, 232, 135);
+    font-size: 24px;
+    font-weight: bold;
+}
